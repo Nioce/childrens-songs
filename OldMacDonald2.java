@@ -20,7 +20,7 @@ public class OldMacDonald2
 
     
     /**
-     * Sings the second line + the animal
+     * Sings the second line + the animal @parm
      */
     public static void hadA(String animal) 
     { 
@@ -29,7 +29,7 @@ public class OldMacDonald2
 
     /**
      * Sings the sounds of the animal, note the +sound per each line
-     * Sings two lines of sounds
+     * Sings two lines of sounds @parm
      */
     public static void withA(String sound) 
     { 
@@ -38,7 +38,7 @@ public class OldMacDonald2
     }
 
     /**
-     * Sings the following verse in order with ordered params 
+     * Sings the following verse in order with ordered @parm 
      */
     public static void singIt(String animal, String sound) 
     {
@@ -50,7 +50,7 @@ public class OldMacDonald2
     }
 
     /**
-     * List the animals with noises that it will display 
+     * List the animals with noises that it will display @parm
      */
     public static void main(String[] args) 
     {
